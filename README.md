@@ -29,9 +29,10 @@
 
 ## 📸 应用截图 (Screenshots)
 
-| **主界面 (Home)** | **仿真实验 (Simulation)** | **真实增强 (Enhancement)** |
-|:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="240"/> | <img src="screenshots/sim.jpg" width="240"/> | <img src="screenshots/real.jpg" width="240"/> |
+| **🔬 仿真实验 (Simulation Mode)** | **✨ 真实增强 (Enhancement Mode)** |
+|:---:|:---:|
+| <img src="sim.jpg" width="360"/> | <img src="real.jpg" width="360"/> |
+| *实时计算 PSNR/SSIM 指标* | *全分辨率重建与无损导出* |
 
 ## 🛠️ 技术栈 (Tech Stack)
 
