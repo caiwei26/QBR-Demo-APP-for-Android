@@ -29,12 +29,9 @@
 
 ## 📸 应用截图 (Screenshots)
 
-<!-- 请在仓库中创建一个 screenshots 文件夹，放入截图后取消注释 -->
-<!--
-| 主界面 | 仿真模式 | 增强模式 |
+| **主界面 (Home)** | **仿真实验 (Simulation)** | **真实增强 (Enhancement)** |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/sim.jpg" width="200"/> | <img src="screenshots/real.jpg" width="200"/> |
--->
+| <img src="screenshots/home.jpg" width="240"/> | <img src="screenshots/sim.jpg" width="240"/> | <img src="screenshots/real.jpg" width="240"/> |
 
 ## 🛠️ 技术栈 (Tech Stack)
 
